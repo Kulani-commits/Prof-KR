@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prof-KR
+- 👋 Hi, I’m Kulani Reason Mthombeni
 - 👀 I’m interested in mobile dev and web dev
 - 🌱 I’m currently learning html,css,javascript.
 - 📫 How to reach me , mthombenireason@gmail.com/0767369193
