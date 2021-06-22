@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kulani Reason Mthombeni
-- 👀 I’m interested in mobile dev and web dev
-- 🌱 I’m currently learning html,css,javascript.
+- 👀 I’m interested in web dev and mobile dev
+- 🌱 I’m currently improving my skills on html,css,javascript.
 - 📫 How to reach me , mthombenireason@gmail.com/0767369193
 
 <!---
