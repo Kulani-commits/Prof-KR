@@ -1,6 +1,18 @@
 - 👋 Hi, I’m Kulani Reason Mthombeni
-- 👀 I’m interested in web dev and mobile dev
-- 🌱 I’m currently improving my skills on html,css,javascript.
+- 👀 I’m a data analyst with passion for ML and cyber
+- 🌱 I also learn web dev on my spare time.
+- _____________________Technical skills include____________________
+- python
+- powerBi
+- Alteryx
+- SQL
+- HTML
+- CSS
+- Bootstrap
+- JAvascript
+- NodeJS
+- React
+- 
 - 📫 How to reach me , mthombenireason@gmail.com/0767369193
 
 <!---
